@@ -1,2 +1,2 @@
-# Win-R-Adde
-Win+R 快速启动管理器
+# nTrun
+Win+R 模式快速启动工具|本地程序管理
